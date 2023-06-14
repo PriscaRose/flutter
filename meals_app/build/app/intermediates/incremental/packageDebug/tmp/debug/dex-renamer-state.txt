@@ -1,0 +1,4 @@
+#Fri Jun 09 09:01:06 EAT 2023
+base.0=/home/Prisca/coding/flutter/meals_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
